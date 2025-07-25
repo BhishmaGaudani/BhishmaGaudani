@@ -5,10 +5,11 @@ I'm a Computer Science and Applied Mathematics & Statistics student at **Stony B
 
 ---
 
-## 🛠 Skills  
-**Programming Languages:** Python, Java, JavaScript, HTML, CSS
-**Frameworks & Tools:** Pandas, Matplotlib, Numpy, React.js, Flask, Flutter
-**Technologies:** Git, VS-code, Pycharm, Intellij, FireBase, Eclipse, Google Colab
+## 🛠 Skills
+
+**Programming Languages:** Python, Java, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** Pandas, Matplotlib, NumPy, React.js, Flask, Flutter  
+**Tools & Technologies:** Git, VS Code, PyCharm, IntelliJ, Firebase, Eclipse, Google Colab
 
 ---
 
