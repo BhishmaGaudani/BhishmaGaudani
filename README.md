@@ -1,7 +1,7 @@
 # Bhishma Gaudani
 
 ## 👨‍💻 About Me  
-I'm a Computer Science and Applied Mathematics & Statistics student at **Stony Brook University** with a strong interest in mathematics, software engineering, data analytics, and quantitative finance. I’ve always loved math, and I love to develop things that combine math with technology.
+I'm a Computer Science and Applied Mathematics & Statistics student at **Stony Brook University** with a strong interest in mathematics, software engineering, and data analysis. I’ve always loved math, and I love to develop things that combine math with technology.
 
 ---
 
