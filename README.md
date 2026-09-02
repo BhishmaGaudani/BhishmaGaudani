@@ -16,7 +16,7 @@ I'm a Computer Science and Applied Mathematics & Statistics student at **Stony B
 ## 📚 Education  
 **Bachelor of Science in Computer Science and Applied Mathematics & Statistics**  
 Stony Brook University (Expected May 2028)  
-GPA: 3.78/4.0  
+GPA: 3.80/4.0  
 Dean's List | Global Excellence Scholarship
 
 ---
