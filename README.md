@@ -23,6 +23,7 @@ Dean's List | Global Excellence Scholarship
 
 ## 🌐 Social Links  
 [LinkedIn](https://www.linkedin.com/in/bhishmagaudani/)  
+[Portfolio](https://bhishmagaudani.com/)  
 [GitHub](https://github.com/BhishmaGaudani)
 
 ---
