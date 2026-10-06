@@ -27,21 +27,6 @@ B.S. Computer Science Honors and Applied Mathematics & Statistics
 **Honors:** Dean's List | Global Excellence Scholarship
 
 ---
-## 🚀 Featured Projects
-
-**TimeLy — Agentic AI**  
-Agentic AI productivity platform using GPT-5 tool calling, 10 autonomous tools, FastAPI, SQLAlchemy, React, and TypeScript.
-
-**StudySpot — Live Campus Tracker**  
-Real-time campus availability platform using React, FastAPI, PostgreSQL, Supabase, and WebSockets with recency-weighted crowd estimates.
-
-**SketchSolve**  
-Computer vision system for recognizing and solving handwritten mathematical expressions using CNNs, OpenCV, and SymPy.
-
-**World Cup Predictive Model**  
-Machine learning project that analyzes historical football data to predict match outcomes and simulate the 2026 FIFA World Cup.
-
----
 ## 🌐 Social Links  
 [LinkedIn](https://www.linkedin.com/in/bhishmagaudani/)  
 [Portfolio](https://bhishmagaudani.com/)  
