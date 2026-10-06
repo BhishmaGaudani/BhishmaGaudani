@@ -40,6 +40,7 @@ Computer vision system for recognizing and solving handwritten mathematical expr
 
 **World Cup Predictive Model**  
 Machine learning project that analyzes historical football data to predict match outcomes and simulate the 2026 FIFA World Cup.
+
 ---
 ## 🌐 Social Links  
 [LinkedIn](https://www.linkedin.com/in/bhishmagaudani/)  
