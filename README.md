@@ -7,17 +7,21 @@ I'm a Computer Science and Applied Mathematics & Statistics student at **Stony B
 
 ## 🛠 Skills
 
-**Programming Languages:** C, Java, Python, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** Pandas, Matplotlib, NumPy, React.js, Flask, Flutter  
-**Tools & Technologies:** Git, VS Code, PyCharm, IntelliJ, Firebase, Eclipse, Google Colab
+**Programming Languages:** C, Java, Python, JavaScript, TypeScript, HTML, CSS  
+**Frontend:** React, TypeScript  
+**Backend & APIs:** FastAPI, Flask, SQLAlchemy, REST APIs, WebSockets  
+**Databases & Cloud:** PostgreSQL, Supabase, SQLite, Firebase  
+**Data & ML:** Pandas, NumPy, Matplotlib, OpenCV, SymPy  
+**Tools & Technologies:** Git, GitHub, JWT, Automated Testing, LLM Tool Calling
 
 ---
 
-## 📚 Education  
-**Bachelor of Science in Computer Science and Applied Mathematics & Statistics**  
-Stony Brook University (Expected May 2028)  
-GPA: 3.80/4.0  
-Dean's List | Global Excellence Scholarship
+**Stony Brook University** — Expected May 2028  
+B.S. Computer Science Honors  
+B.S. Applied Mathematics & Statistics  
+
+**GPA:** 3.80/4.00  
+**Honors:** Dean's List | Global Excellence Scholarship
 
 ---
 
