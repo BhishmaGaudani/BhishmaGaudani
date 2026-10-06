@@ -16,10 +16,14 @@ I'm a Computer Science and Applied Mathematics & Statistics student at **Stony B
 
 ---
 
+## 📚 Education
+
 **Stony Brook University** — Expected May 2028  
 B.S. Computer Science Honors  
 B.S. Applied Mathematics & Statistics  
 
+**GPA:** 3.80/4.00  
+**Honors:** Dean's List | Global Excellence Scholarship
 **GPA:** 3.80/4.00  
 **Honors:** Dean's List | Global Excellence Scholarship
 
